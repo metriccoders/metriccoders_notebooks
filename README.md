@@ -1,6 +1,3 @@
-Sure, here's a basic structure for your README file. You can modify it according to your project's requirements.
-
-```markdown
 # Metric Coders Notebooks
 
 ## Description
