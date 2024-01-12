@@ -24,4 +24,4 @@ cd metriccoders_notebooks
 We welcome contributions! Please see the [contributing guide](CONTRIBUTING.md) for more details.
 
 ## License
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.md) file for details.
