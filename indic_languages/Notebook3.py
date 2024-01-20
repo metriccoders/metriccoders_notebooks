@@ -2,7 +2,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
-from sklearn.tree import ExtraTreeClassifier
+from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 
@@ -33,7 +33,7 @@ X_train, X_test, y_train, y_test = train_test_split(features_nd,
                                                     random_state=42)
 
 model_pipeline = Pipeline([
-    ("clf", ExtraTreeClassifier())
+    ("clf", DecisionTreeClassifier())
 ])
 
 model_pipeline.fit(X_train, y_train)
