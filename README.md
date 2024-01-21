@@ -9,7 +9,7 @@ This repository contains Python notebooks and programs focused on Machine Learni
 3. [License](#license)
 
 ## Installation
-To run these notebooks and programs, you need to have Python and some libraries installed on your machine. Here's how you can do it:
+To run these notebooks and python programs, you need to have Python and some libraries installed on your machine. Here's how you can do it:
 
 ```bash
 # Clone the repository
