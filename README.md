@@ -3,8 +3,6 @@
 ## Description
 This repository contains Python notebooks and programs focused on Machine Learning, Natural Language Processing and Artificial Intelligence. It is designed to provide hands-on experience and demonstrate the practical applications of various Machine Learning algorithms.
 
-## Target 5000 Notebooks
-The target is to reach 5000 notebooks and Python programs collectively in sklearn or scikit learn library, pytorch, tensorflow, keras and other ML libraries.
 
 ## Table of Contents
 1. [Installation](#installation)
