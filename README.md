@@ -3,6 +3,7 @@
 ## Description
 This repository contains Python notebooks and programs focused on Machine Learning, Natural Language Processing and Artificial Intelligence. It is designed to provide hands-on experience and demonstrate the practical applications of various Machine Learning algorithms.
 
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Contributing](#contributing)
