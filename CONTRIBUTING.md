@@ -60,4 +60,4 @@ If you want to report a bug, propose a new feature, or discuss the project, plea
 
 By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](link-to-license) of the project.
 
-Thank you for contributing to [Repository Name]! Your efforts are greatly appreciated.
+Thank you for contributing to metriccoders_notebooks! Your efforts are greatly appreciated.
